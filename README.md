@@ -23,6 +23,16 @@
 
 # About My Github
 
-<img height="170" src="https://activity-graph.herokuapp.com/graph?username=Lanfu66&theme=xcode"  align="right" style="margin: 5px; margin-bottom: 20px;" />
-<img height='168' src="https://github-readme-stats.vercel.app/api?username=Lanfu66&show_icons=true&theme=tokyonight" align="left" />
+<table align="center">
+<tr>
+<td valign="top">    
+	<img height="160" src="https://activity-graph.herokuapp.com/graph?username=Lanfu66&theme=xcode" />
+</td>
+    
+<td valign="top">
+	<img height='168' src="https://github-readme-stats.vercel.app/api?username=Lanfu66&show_icons=true&theme=tokyonight"  />
+</td> 
+</tr>
+</table>
+
 
