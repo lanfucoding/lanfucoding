@@ -1,7 +1,4 @@
-<!-- 动态打字效果 -->
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=一个二次元!但不是技术宅&center=true&size=27">
-</h1>
+
 
 <!-- 个人资料徽标 -->
 <div align="center">
@@ -12,6 +9,8 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=Lanfu66" alt="访客统计" /></div>
 
 
-
-![Lanfu66's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lanfu66&show_icons=true&theme=tokyonight)
-
+# About My Github
+<div align="left">
+<img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanfu66&layout=compact&langs_count=8&theme=tokyonight" align="center" />
+<img height='180' src="https://github-readme-stats.vercel.app/api?username=Lanfu66&show_icons=true&theme=tokyonight" align="center" />
+</div>  
