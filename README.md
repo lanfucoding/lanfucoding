@@ -11,7 +11,7 @@
 
 <br>
 
-# <img src="png\blog.png" alt="blog" style="zoom:17%;" />Latest Blog 
+# Latest Blog 
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -22,7 +22,7 @@
 - [error: expected ‘,’ or ‘；’ before ‘int’](https://blog.csdn.net/qq_62390970/article/details/127413337)
   <!-- BLOG-POST-LIST:END -->
 
-# <img src="png\github.png" alt="github" style="zoom:22%;" />About My Github
+# About My Github
 
 <img height="185" src="https://activity-graph.herokuapp.com/graph?username=Lanfu66&theme=xcode"  align="right" style="margin: 5px; margin-bottom: 20px;" />
 <img height='172' src="https://github-readme-stats.vercel.app/api?username=Lanfu66&show_icons=true&theme=tokyonight" align="left" />
