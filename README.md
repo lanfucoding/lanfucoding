@@ -8,7 +8,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=Lanfu66" alt="访客统计" /></div>
 <br>
 
-# Latest Blog Posts
+# Latest Blog 
 
 <!-- BLOG-POST-LIST:START -->
 - [设计模式1](https://blog.csdn.net/qq_62390970/article/details/127641516)
@@ -19,7 +19,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 # About My Github
-<div align="left">
-<img height='180' src="https://github-readme-stats.vercel.app/api?username=Lanfu66&show_icons=true&theme=tokyonight" align="center" />
-</div>  
-<img src="https://activity-graph.herokuapp.com/graph?username=Lanfu66&theme=xcode" align="center"/>
+<img height="185" src="https://activity-graph.herokuapp.com/graph?username=Lanfu66&theme=xcode"  align="right" style="margin: 5px; margin-bottom: 20px;" />
+<img height='172' src="https://github-readme-stats.vercel.app/api?username=Lanfu66&show_icons=true&theme=tokyonight" align="left" />
+
+
