@@ -1,4 +1,5 @@
-
+# <center>真的非她不可
+<br/>
 
 <!-- 个人资料徽标 -->
 <div align="center">
@@ -11,6 +12,6 @@
 
 # About My Github
 <div align="left">
-<img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanfu66&layout=compact&langs_count=8&theme=tokyonight" align="center" />
+<img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanfu66&layout=compact&theme=tokyonight" align="center" />
 <img height='180' src="https://github-readme-stats.vercel.app/api?username=Lanfu66&show_icons=true&theme=tokyonight" align="center" />
 </div>  
