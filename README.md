@@ -9,10 +9,9 @@
 <!-- 访客数统计徽标 -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=Lanfu66" alt="访客统计" /></div>
 
-
 <br>
 
-# Latest Blog 
+# <img src="png\blog.png" alt="blog" style="zoom:17%;" />Latest Blog 
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -23,7 +22,8 @@
 - [error: expected ‘,’ or ‘；’ before ‘int’](https://blog.csdn.net/qq_62390970/article/details/127413337)
   <!-- BLOG-POST-LIST:END -->
 
-# About My Github
+# <img src="png\github.png" alt="github" style="zoom:22%;" />About My Github
 
 <img height="185" src="https://activity-graph.herokuapp.com/graph?username=Lanfu66&theme=xcode"  align="right" style="margin: 5px; margin-bottom: 20px;" />
 <img height='172' src="https://github-readme-stats.vercel.app/api?username=Lanfu66&show_icons=true&theme=tokyonight" align="left" />
+
