@@ -26,11 +26,12 @@
 <table align="center">
 <tr>
 <td valign="top">    
-	<img height="160" src="https://activity-graph.herokuapp.com/graph?username=Lanfu66&theme=xcode" />
+	<img height='168' src="https://github-readme-stats.vercel.app/api?username=Lanfu66&show_icons=true&theme=tokyonight"  />
+	
 </td>
     
 <td valign="top">
-	<img height='168' src="https://github-readme-stats.vercel.app/api?username=Lanfu66&show_icons=true&theme=tokyonight"  />
+	<img height="160" src="https://activity-graph.herokuapp.com/graph?username=Lanfu66&theme=xcode" />
 </td> 
 </tr>
 </table>
