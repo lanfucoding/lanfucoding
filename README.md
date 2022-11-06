@@ -18,11 +18,7 @@
 # Latest Blog 
 
 <!-- BLOG-POST-LIST:START -->
-- [设计模式1](https://blog.csdn.net/qq_62390970/article/details/127641516)
-- [埃氏筛、线性筛知识回顾](https://blog.csdn.net/qq_62390970/article/details/127503168)
-- [位运算回顾](https://blog.csdn.net/qq_62390970/article/details/127480426)
-- [You have an error in your SQL syntax； check the manual that corresponds to your MySQL server version](https://blog.csdn.net/qq_62390970/article/details/127475054)
-- [error: expected ‘,’ or ‘；’ before ‘int’](https://blog.csdn.net/qq_62390970/article/details/127413337)
+- [char与varchar占用_MySQL笔记](https://blog.csdn.net/m0_58454316/article/details/127715587)
 <!-- BLOG-POST-LIST:END -->
 
 # About My Github
