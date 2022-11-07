@@ -18,6 +18,7 @@
 # Latest Blog 
 
 <!-- BLOG-POST-LIST:START -->
+- [中心扩散法](https://blog.csdn.net/m0_58454316/article/details/127741822)
 - [char与varchar占用_MySQL笔记](https://blog.csdn.net/m0_58454316/article/details/127715587)
 <!-- BLOG-POST-LIST:END -->
 
