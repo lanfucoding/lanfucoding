@@ -5,6 +5,7 @@ on:
   schedule:
     # Runs every hour, on the hour
     - cron: "0 * * * *"
+    workflow_dispatch:
 
 jobs:
   update-readme-with-blog:
@@ -16,3 +17,5 @@ jobs:
         with:
           # comma-separated list of RSS feed urls
           feed_list: "https://blog.csdn.net/m0_58454316/rss/list?spm=1001.2014.3001.5494"
+          max_post_count: 3
+
