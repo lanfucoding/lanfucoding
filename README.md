@@ -9,8 +9,7 @@
 <!-- 访客数统计徽标 -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=Lanfu66" alt="访客统计" /></div>
   
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
+
 
 
 <br>
@@ -31,7 +30,7 @@
 </td>
     
 <td valign="top">
-	<img height="200" src="https://activity-graph.herokuapp.com/graph?username=Lanfu66&theme=xcode" />
+	
 </td> 
 </tr>
 </table>
