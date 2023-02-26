@@ -17,6 +17,7 @@
 # Latest Blog 
 
 <!-- BLOG-POST-LIST:START -->
+- [explain 参数详解](https://blog.csdn.net/m0_58454316/article/details/129234221)
 - [线程池核心参数](https://blog.csdn.net/m0_58454316/article/details/129216575)
 - [[面试题] 谈谈你对索引的理解？](https://blog.csdn.net/m0_58454316/article/details/128749442)
 - [关于redo log 刷盘时机](https://blog.csdn.net/m0_58454316/article/details/128746170)
