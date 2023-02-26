@@ -17,6 +17,9 @@
 # Latest Blog 
 
 <!-- BLOG-POST-LIST:START -->
+- [线程池核心参数](https://blog.csdn.net/m0_58454316/article/details/129216575)
+- [[面试题] 谈谈你对索引的理解？](https://blog.csdn.net/m0_58454316/article/details/128749442)
+- [关于redo log 刷盘时机](https://blog.csdn.net/m0_58454316/article/details/128746170)
 - [中心扩散法](https://blog.csdn.net/m0_58454316/article/details/127741822)
 - [char与varchar占用_MySQL笔记](https://blog.csdn.net/m0_58454316/article/details/127715587)
 <!-- BLOG-POST-LIST:END -->
