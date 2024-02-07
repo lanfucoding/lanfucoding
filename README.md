@@ -29,16 +29,14 @@
 
 # About My Github
 
-<table align="center">
-<tr>
-<td valign="top">    
-	<img height='200' src="https://github-readme-stats.vercel.app/api?username=lanfucoding&show_icons=true&theme=tokyonight"  />
-</td>
-    
-<td valign="top">
-	
-</td> 
-</tr>
-</table>
+<div style="display: flex;">
+    <div style="flex: 1;">
+        <img height='200' src="https://github-readme-stats.vercel.app/api?username=lanfucoding&show_icons=true&theme=tokyonight" />
+    </div>
+    <div style="flex: 1;"></div> <!-- 右侧空白 -->
+</div>
+
+
+
 
 
