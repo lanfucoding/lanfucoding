@@ -7,7 +7,7 @@
   <a href="https://blog.csdn.net/m0_58454316"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
   <a href="https://space.bilibili.com/280201147"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
 <!-- 访客数统计徽标 -->
-<!--   <img src="https://visitor-badge.glitch.me/badge?page_id=lanfucoding" alt="访客统计" /> -->
+<!--   <img src="https://visitor-badge.glitch.me/badge?page_id=lanfunoe" alt="访客统计" /> -->
 </div>
   
 
@@ -32,7 +32,7 @@
 
 <div style="display: flex;">
     <div style="flex: 1;">
-        <img height='200' src="https://github-readme-stats.vercel.app/api?username=lanfucoding&show_icons=true&theme=tokyonight" />
+        <img height='200' src="https://github-readme-stats.vercel.app/api?username=lanfunoe&show_icons=true&theme=tokyonight" />
     </div>
     <div style="flex: 1;"></div> <!-- 右侧空白 -->
 </div>
