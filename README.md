@@ -18,6 +18,7 @@
 # Latest Blog 
 
 <!-- BLOG-POST-LIST:START -->
+- [idea在archlinux下无法使用fctitx5](https://blog.csdn.net/m0_58454316/article/details/136813393)
 - [追番最优解autobangumi踩坑实录--vmware中用archlinux采用docker部署](https://blog.csdn.net/m0_58454316/article/details/136071373)
 - [环境搭建_Spring 源码阅读](https://blog.csdn.net/m0_58454316/article/details/129389804)
 - [explain 参数详解](https://blog.csdn.net/m0_58454316/article/details/129234221)
